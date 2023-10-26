@@ -1,0 +1,10 @@
+C:\Space\ScanNetHub\bin\Debug\ScanNetHub.exe.config
+C:\Space\ScanNetHub\bin\Debug\ScanNetHub.exe
+C:\Space\ScanNetHub\bin\Debug\ScanNetHub.pdb
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.csproj.AssemblyReference.cache
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.Properties.Resources.resources
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.MainForm.resources
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.csproj.GenerateResource.cache
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.csproj.CoreCompileInputs.cache
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.exe
+C:\Space\ScanNetHub\obj\Debug\ScanNetHub.pdb
